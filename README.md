@@ -4,6 +4,8 @@
 
 **BA780 · Team A09**
 
+> **My role (Sienna Huang):** I was the primary owner of the USDA data-cleaning work for `branded_food.csv` and `food.csv` (about 2.0M records each), including missing and hidden-missing values, unusable columns, text/country/date standardization, duplicate checks, and `fdc_id` join validation. I also independently developed P1, "The Problem on the Shelf" (Q1–Q4), covering category-level nutrition risk, nutrient drivers, sodium variation, and ingredient-count patterns. The "60% of products are high" finding below comes from this analysis. Cleaning work was reviewed by a teammate before being integrated into the final team notebook.
+
 ---
 
 ## The 30-second version
